@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Git2142\\estudos-logica-github\\C#\\Medias\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CE4E3F-2FA2-4DA5-9DE8-69FEAC79AE99}|Medias\\Medias.csproj|c:\\git2142\\estudos-logica-github\\c#\\medias\\medias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CE4E3F-2FA2-4DA5-9DE8-69FEAC79AE99}|Medias\\Medias.csproj|solutionrelative:medias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Git2142\\estudos-logica-github\\C#\\Medias\\Medias\\Program.cs",
+              "RelativeDocumentMoniker": "Medias\\Program.cs",
+              "ToolTip": "C:\\Git2142\\estudos-logica-github\\C#\\Medias\\Medias\\Program.cs",
+              "RelativeToolTip": "Medias\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T16:06:41.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
